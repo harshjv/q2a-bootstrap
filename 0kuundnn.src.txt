@@ -1,0 +1,66 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   assets/css/bootstrap-responsive.css
+#	new file:   assets/css/bootstrap.css
+#	new file:   assets/css/custom.css
+#	new file:   assets/img/bs-docs-masthead-pattern.png
+#	new file:   assets/img/feed.png
+#	new file:   assets/img/glyphicons-halflings-white.png
+#	new file:   assets/img/glyphicons-halflings.png
+#	new file:   assets/img/grid-baseline-20px.png
+#	new file:   assets/img/loading.gif
+#	new file:   assets/js/application.js
+#	new file:   assets/js/bootstrap-affix.js
+#	new file:   assets/js/bootstrap-alert.js
+#	new file:   assets/js/bootstrap-button.js
+#	new file:   assets/js/bootstrap-carousel.js
+#	new file:   assets/js/bootstrap-collapse.js
+#	new file:   assets/js/bootstrap-dropdown.js
+#	new file:   assets/js/bootstrap-modal.js
+#	new file:   assets/js/bootstrap-popover.js
+#	new file:   assets/js/bootstrap-scrollspy.js
+#	new file:   assets/js/bootstrap-tab.js
+#	new file:   assets/js/bootstrap-tooltip.js
+#	new file:   assets/js/bootstrap-transition.js
+#	new file:   assets/js/bootstrap-typeahead.js
+#	new file:   assets/js/bootstrap.js
+#	new file:   assets/js/bootstrap.min.js
+#	new file:   assets/js/google-code-prettify/prettify.css
+#	new file:   assets/js/google-code-prettify/prettify.js
+#	new file:   assets/js/jquery.js
+#	new file:   qa-content/qa-page.js
+#	new file:   qa-content/qa-question.js
+#	new file:   qa-include/qa-ajax-answer.php
+#	new file:   qa-include/qa-ajax.php
+#	new file:   qa-include/qa-app-format.php
+#	new file:   qa-include/qa-app-users.php
+#	new file:   qa-include/qa-base.php
+#	new file:   qa-include/qa-feed.php
+#	new file:   qa-include/qa-lang-main.php
+#	new file:   qa-include/qa-lang-misc.php
+#	new file:   qa-include/qa-lang-profile.php
+#	new file:   qa-include/qa-lang-question.php
+#	new file:   qa-include/qa-lang-users.php
+#	new file:   qa-include/qa-page-ask.php
+#	new file:   qa-include/qa-page-default.php
+#	new file:   qa-include/qa-page-question-view.php
+#	new file:   qa-include/qa-page-question.php
+#	new file:   qa-include/qa-page-tag.php
+#	new file:   qa-include/qa-page-user.php
+#	new file:   qa-include/qa-page.php
+#	new file:   qa-include/qa-theme-base.php
+#	new file:   qa-include/qa-widget-activity-count.php
+#	new file:   qa-include/qa-widget-ask-box.php
+#	new file:   qa-plugin/tag-cloud-widget/qa-plugin.php
+#	new file:   qa-plugin/tag-cloud-widget/qa-tag-cloud.php
+#	new file:   qa-theme/qa-bootstrap/css/bootstrap-responsive.css
+#	new file:   qa-theme/qa-bootstrap/css/bootstrap.css
+#	new file:   qa-theme/qa-bootstrap/css/custom.css
+#	new file:   qa-theme/qa-bootstrap/qa-styles.css
+#
+
