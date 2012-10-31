@@ -1497,7 +1497,7 @@
 			$this->output('<p>');
 			$this->post_avatar_meta($q_item, 'qa-q-item');
 			$this->output('</p>');
-			//$this->post_tags($q_item, 'qa-q-item');
+			$this->post_tags($q_item, 'qa-q-item');
 			$this->output('<p>');
 			$this->q_item_buttons($q_item);
 			$this->q_item_stats($q_item);
