@@ -21,6 +21,8 @@ Make sure to apply following settings
 
 Go to `Admin->Settings->` Check `Count the number of question views` & `Show view count in question lists`
 
+then Apply `q2a-bootstrap` theme from `Admin->General`
+
 Author
 -------
 
