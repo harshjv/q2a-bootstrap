@@ -19,7 +19,7 @@ Make a full backup of your current installation of Q2A. Extract and Replace the 
 Make sure to apply following settings
 -------------------------------------
 
-Go to `Admin->Settings->` Check `Count the number of question views` & `Show view count in question lists`
+Go to `Admin->Viewing->` Check `Count the number of question views` & `Show view count in question lists`
 
 then Apply `q2a-bootstrap` theme from `Admin->General`
 
