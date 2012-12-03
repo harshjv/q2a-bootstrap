@@ -51,7 +51,7 @@
 		'email_not_confirmed' => 'Not yet confirmed',
 		'email_please_confirm' => 'Please ^5confirm^6',
 		'email_required' => 'Email address required - not public',
-		'forgot_link' => 'I forgot my password',
+		'forgot_link' => 'Forgot',
 		'full_name' => 'Full name',
 		'handle_empty' => 'Username must not be empty',
 		'handle_exists' => 'Username is taken - please try another',
