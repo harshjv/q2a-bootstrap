@@ -20,7 +20,7 @@
 
 	class qa_html_theme_base {
 	
-		var	$indent=0;
+		var $indent=0;
 		var $lines=0;
 		var $context=array();
 		
