@@ -1,7 +1,7 @@
-[Question2Answer Bootstrap Theme](http://harshjv.github.com/q2a-bootstrap)
+[Question2Answer Bootstrap Framework](http://harshjv.github.com/q2a-bootstrap)
 =================
 
-Question2Answer Bootstrap Theme is the sweetest theme made for Q2A. It is developed by [Harsh J. Vakharia](http://twitter.com/harshjv)
+Bootstrap Framework for Question2Answer developed by [Harsh J. Vakharia](http://twitter.com/harshjv)
 
 
 Quick start
@@ -16,12 +16,10 @@ Initiate
 Make a full backup of your current installation of Q2A. Extract and Replace the contents downloaded.
 
 
-Make sure to apply following settings
+Apply Q2A-Bootstrap
 -------------------------------------
 
-Go to `Admin->Viewing->` Check `Count the number of question views` & `Show view count in question lists`
-
-then Apply `q2a-bootstrap` theme from `Admin->General`
+Apply `q2a-bootstrap` theme from `Admin->General`
 
 Author
 -------
