@@ -21,6 +21,11 @@ Apply Q2A-Bootstrap
 
 Apply `q2a-bootstrap` theme from `Admin->General`
 
+Screenshots
+-------------------------------------
+
+![Screenshot-1](https://github.com/downloads/harshjv/q2a-bootstrap/q2.PNG)
+
 Author
 -------
 
