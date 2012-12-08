@@ -305,6 +305,8 @@
 						<ul class="footer-links">
 						<li><a href="../">Home</a></li>
 						<li><a href="../feedback">Feedback</a></li>
+						<li><a href="http://twitter.com/harshjv">Twitter</a></li>
+						<li><a href="http://www.facebook.com/hjvakharia">Facebook</a></li>
 						</ul>
 						</div>
 						</footer>');
