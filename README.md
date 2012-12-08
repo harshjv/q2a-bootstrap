@@ -21,6 +21,11 @@ Apply Q2A-Bootstrap
 
 Apply `q2a-bootstrap` theme from `Admin->General`
 
+Warning
+--------
+
+After replacing the files, you won't be able to apply other themes, to apply other themes, please restore your Q2A installation files that you have backup'd in above step.
+
 Screenshots
 -------------------------------------
 
