@@ -8,6 +8,6 @@
 	Theme Update Check URI: 
 */
 
-@import url("css/bootstrap.css");
-@import url("css/bootstrap-responsive.css");
-@import url("css/custom.css");
+@import url("lib/bootstrap.css");
+@import url("lib/bootstrap-responsive.css");
+@import url("lib/custom.css");
