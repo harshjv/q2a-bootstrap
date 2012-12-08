@@ -500,7 +500,7 @@
 			
 			
 			
-			$this->below_navbar();
+			//$this->below_navbar();
 			$this->output('<div class="navbar">
 						<div class="navbar-inner">');
 			$this->nav_main_sub();
