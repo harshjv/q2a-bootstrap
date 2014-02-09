@@ -1,42 +1,26 @@
-[Question2Answer Bootstrap Framework](http://harshjv.github.com/q2a-bootstrap)
-=================
+# Q2A Bootstrap
 
-Bootstrap Framework for Question2Answer developed by [Harsh J. Vakharia](http://twitter.com/harshjv)
+Bootstrap v3 for [Question2Answer](http://www.question2answer.org)
 
+**This project is currently under development**
 
-Quick start
------------
-
-Clone the repo, `git clone git://github.com/harshjv/q2a-bootstrap.git`, [download the zipball](https://github.com/harshjv/q2a-bootstrap/zipball/master)
+**For Q2A v1.5.3: [Q2A-Bootstrap v1.1.0](https://github.com/harshjv/q2a-bootstrap/tree/v1.1.0)**
 
 
-Initiate
---------
-
-Make a full backup of your current installation of Q2A. Extract and Replace the contents downloaded.
 
 
-Apply Q2A-Bootstrap
--------------------------------------
+## Installation
 
-Apply `q2a-bootstrap` theme from `Admin->General`
-
-Warning
---------
-
-After replacing the files, you won't be able to apply other themes, to apply other themes, please restore your Q2A installation files that you have backup'd in above step.
-
-Screenshots
--------------------------------------
-
-![Screenshot-1](https://github.com/downloads/harshjv/q2a-bootstrap/q1.PNG)
+```sh
+git clone https://github.com/harshjv/q2a-bootstrap
+```
 
 
-![Screenshot-1](https://github.com/downloads/harshjv/q2a-bootstrap/q2.PNG)
+## Author
 
-Author
--------
+[Harsh Vakharia](http://twitter.com/harshjv)
 
-**Harsh J. Vakharia**
 
-+ http://twitter.com/harshjv
+## License
+
+GPL v2
