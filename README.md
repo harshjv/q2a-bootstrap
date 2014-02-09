@@ -1,6 +1,6 @@
 # Q2A Bootstrap
 
-Bootstrap v3 for [Question2Answer](http://www.question2answer.org)
+Bootstrap 3 for [Question2Answer](http://www.question2answer.org)
 
 **This project is currently under development**
 
