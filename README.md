@@ -10,6 +10,7 @@ Bootstrap v3 for [Question2Answer](http://www.question2answer.org)
 ## Installation
 
 ```sh
+cd your-qa-project/qa-theme
 git clone https://github.com/harshjv/q2a-bootstrap
 ```
 
